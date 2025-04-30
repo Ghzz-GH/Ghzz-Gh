@@ -14,23 +14,22 @@
 </div>
 
 ### Sobre mim 👤	
-Me chamo Gustavo, atualmente estou cursando o 2º semestre de **Ciência da Computação**, ainda estou adentrando esse mundo DEV, mas sempre fui apaixonado e inserido no ramo da tecnologia. Utilizarei esse perfil no GitHub como repositório e portfólio para os meus projetos.  
+Me chamo Gustavo, atualmente estou cursando o 2º semestre de **Ciência da Computação**, ainda estou adentrando nesse mundo, mas sempre fui apaixonado e inserido no ramo da tecnologia. Utilizarei esse perfil no GitHub como repositório e portfólio para os meus projetos.  
 
 ### Skills (sempre em aprofundamento) 🔎
 * **idiomas:** Português (nativo), Inglês (intermediário)
-* **Linguagens de programação:** Python, JavaScript, C++
+* **Linguagens de programação:** Python (Pandas, matplotlib, Scikit learn, Numpy), R, SQL, JavaScript, C++
 * **Linguagens de marcação/estilização:** HTML, CSS
 * **Pacote Office** Excel, Power BI, PowerPoint
 * **Soft Skills:** flexibilidade, adaptabilidade, comunicação, trabalho em equipe
 
 ### Estudos futuros 📚
 * Java
-* SQL
 * Banco de Dados
 * Cloud
 
 ### Assuntos que mais me interessam 
-* Analise da dados
+* Analise de dados
 * Cybersecurity Data Science
 * Cloud
 
