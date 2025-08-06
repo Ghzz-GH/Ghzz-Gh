@@ -22,7 +22,7 @@
 </div>
 
 ### Sobre mim 👤	
-Me chamo Gustavo, atualmente estou cursando o 2º semestre de **Ciência da Computação**, ainda estou adentrando nesse mundo, mas sempre fui apaixonado e inserido no ramo da tecnologia. Utilizarei esse perfil no GitHub como repositório e portfólio para os meus projetos.  
+Me chamo Gustavo, atualmente estou cursando o 3º semestre de **Ciência da Computação**, ainda estou adentrando nesse mundo, mas sempre fui apaixonado e inserido no ramo da tecnologia. Utilizarei esse perfil no GitHub como repositório e portfólio para os meus projetos.  
 
 ### Skills (sempre em aprofundamento) 🔎
 * **idiomas:** Português (nativo), Inglês (intermediário)
@@ -38,7 +38,8 @@ Me chamo Gustavo, atualmente estou cursando o 2º semestre de **Ciência da Comp
 
 ### Assuntos que mais me interessam 
 * Analise de dados
-* Cybersecurity Data Science
+* Data Science
+* Cybersecurity 
 * Cloud
 
 ## Alguns outros contatos abaixo 📨
