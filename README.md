@@ -26,7 +26,7 @@ Me chamo Gustavo, atualmente estou cursando o 3º semestre de **Ciência da Comp
 
 ### Skills (sempre em aprofundamento) 🔎
 * **idiomas:** Português (nativo), Inglês (intermediário)
-* **Linguagens de programação:** Python (Pandas, matplotlib, Scikit learn, Numpy), R, SQL, JavaScript, C++
+* **Linguagens de programação:** Python (Pandas, matplotlib, Plotly, Seaborn, Scikit learn, Numpy), R, SQL, JavaScript, C, C++
 * **Linguagens de marcação/estilização:** HTML, CSS
 * **Pacote Office** Excel, Power BI, PowerPoint
 * **Soft Skills:** flexibilidade, adaptabilidade, comunicação, trabalho em equipe
